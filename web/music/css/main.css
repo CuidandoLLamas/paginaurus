@@ -657,7 +657,7 @@ h2 {
 **************************/
 
 .contact-section {
-  background-color: #f7ab24;
+  background-color: #f9ab00;   /*#f7ab24;*/
   background-image: url("../images/contact-bg.jpg");
   background-position:60% 0;
   background-size:contain;
